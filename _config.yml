@@ -1,0 +1,28 @@
+name: I WAS HERE
+favicon: null
+layout_spectrum: 0.3010065408889204
+typography_spectrum: 0.9983407768886536
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.09515441954135895
+  lightness: 0.897832510760054
+  saturation: 0.8496682697441429
+  rhythmicContrast: 0.5293793785385787
+purpose: []
